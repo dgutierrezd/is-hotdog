@@ -24,4 +24,4 @@ app.post("/hotdog", async (req, res) => {
   getHotDog(req.body.imageURL).then((ans) => res.send("Es hot dog!"));
 });
 
-app.listen(4000, () => console.log("Running on port 4000"));
+app.listen(4000, () => console.log("Running on port 4000 🔝"));
