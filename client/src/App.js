@@ -20,7 +20,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Hola mundo</h1>
+      <h1>Hot Dog App</h1>
       <input
         value={image}
         type="text"
